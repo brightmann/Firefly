@@ -1,6 +1,6 @@
 ---
 title: 稀奇古怪的中国经济
-published: 2026-09-23 23:47
+published: 2026-09-23T23:47:00
 description: 这是一篇文章
 tags: [misc1, misc2, misc3]
 category: 文章示例
