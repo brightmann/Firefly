@@ -1,6 +1,6 @@
 ---
 title: 战马
-published: 2026-09-23 23:44
+published: 2026-09-23T23:44:00
 description: 这是一篇文章
 tags: [misc1, misc2, misc3]
 category: 文章示例
